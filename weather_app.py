@@ -3,9 +3,9 @@ from tkinter import messagebox
 from tkinter import ttk #css for tkinter 
 from configparser import ConfigParser
 
-import io
-import urllib.request
-import base64
+# import io
+# import urllib.request
+# import base64
 import time
 
 import ssl
